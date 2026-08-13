@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/deytuhin2004/DSA/tree/master/0001-two-sum) |
+| [1672-richest-customer-wealth](https://github.com/deytuhin2004/DSA/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
 |  |
 | ------- |
@@ -19,4 +20,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/deytuhin2004/DSA/tree/master/0206-reverse-linked-list) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/deytuhin2004/DSA/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
