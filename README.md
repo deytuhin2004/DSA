@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/deytuhin2004/DSA/tree/master/0001-two-sum) |
+| [0079-word-search](https://github.com/deytuhin2004/DSA/tree/master/0079-word-search) |
 | [1672-richest-customer-wealth](https://github.com/deytuhin2004/DSA/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/deytuhin2004/DSA/tree/master/0079-word-search) |
 | [1672-richest-customer-wealth](https://github.com/deytuhin2004/DSA/tree/master/1672-richest-customer-wealth) |
 ## Two Pointers
 |  |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/deytuhin2004/DSA/tree/master/0020-valid-parentheses) |
+| [0079-word-search](https://github.com/deytuhin2004/DSA/tree/master/0079-word-search) |
 ## Stack
 |  |
 | ------- |
@@ -42,4 +45,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/deytuhin2004/DSA/tree/master/0020-valid-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/deytuhin2004/DSA/tree/master/0079-word-search) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/deytuhin2004/DSA/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
