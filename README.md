@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/deytuhin2004/DSA/tree/master/0001-two-sum) |
 | [0079-word-search](https://github.com/deytuhin2004/DSA/tree/master/0079-word-search) |
+| [0088-merge-sorted-array](https://github.com/deytuhin2004/DSA/tree/master/0088-merge-sorted-array) |
 | [0239-sliding-window-maximum](https://github.com/deytuhin2004/DSA/tree/master/0239-sliding-window-maximum) |
 | [0739-daily-temperatures](https://github.com/deytuhin2004/DSA/tree/master/0739-daily-temperatures) |
 | [0912-sort-an-array](https://github.com/deytuhin2004/DSA/tree/master/0912-sort-an-array) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/deytuhin2004/DSA/tree/master/0088-merge-sorted-array) |
 | [0876-middle-of-the-linked-list](https://github.com/deytuhin2004/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## String
 |  |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/deytuhin2004/DSA/tree/master/0088-merge-sorted-array) |
 | [0912-sort-an-array](https://github.com/deytuhin2004/DSA/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
