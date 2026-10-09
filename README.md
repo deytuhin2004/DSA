@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/deytuhin2004/DSA/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/deytuhin2004/DSA/tree/master/0079-word-search) |
+| [1143-longest-common-subsequence](https://github.com/deytuhin2004/DSA/tree/master/1143-longest-common-subsequence) |
 ## Stack
 |  |
 | ------- |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/deytuhin2004/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/deytuhin2004/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [1143-longest-common-subsequence](https://github.com/deytuhin2004/DSA/tree/master/1143-longest-common-subsequence) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -143,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/deytuhin2004/DSA/tree/master/0416-partition-equal-subset-sum) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/deytuhin2004/DSA/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
