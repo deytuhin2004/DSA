@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/deytuhin2004/DSA/tree/master/0088-merge-sorted-array) |
 | [0239-sliding-window-maximum](https://github.com/deytuhin2004/DSA/tree/master/0239-sliding-window-maximum) |
 | [0322-coin-change](https://github.com/deytuhin2004/DSA/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/deytuhin2004/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0739-daily-temperatures](https://github.com/deytuhin2004/DSA/tree/master/0739-daily-temperatures) |
 | [0912-sort-an-array](https://github.com/deytuhin2004/DSA/tree/master/0912-sort-an-array) |
 | [1672-richest-customer-wealth](https://github.com/deytuhin2004/DSA/tree/master/1672-richest-customer-wealth) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/deytuhin2004/DSA/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/deytuhin2004/DSA/tree/master/0416-partition-equal-subset-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -132,8 +134,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/deytuhin2004/DSA/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/deytuhin2004/DSA/tree/master/0416-partition-equal-subset-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/deytuhin2004/DSA/tree/master/0322-coin-change) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/deytuhin2004/DSA/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
