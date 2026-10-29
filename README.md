@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/deytuhin2004/DSA/tree/master/0079-word-search) |
 | [0199-binary-tree-right-side-view](https://github.com/deytuhin2004/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0743-network-delay-time](https://github.com/deytuhin2004/DSA/tree/master/0743-network-delay-time) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/deytuhin2004/DSA/tree/master/0239-sliding-window-maximum) |
+| [0743-network-delay-time](https://github.com/deytuhin2004/DSA/tree/master/0743-network-delay-time) |
 | [0912-sort-an-array](https://github.com/deytuhin2004/DSA/tree/master/0912-sort-an-array) |
 ## Monotonic Queue
 |  |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/deytuhin2004/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0322-coin-change](https://github.com/deytuhin2004/DSA/tree/master/0322-coin-change) |
+| [0743-network-delay-time](https://github.com/deytuhin2004/DSA/tree/master/0743-network-delay-time) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -159,4 +162,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/deytuhin2004/DSA/tree/master/0199-binary-tree-right-side-view) |
+## Graph Theory
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/deytuhin2004/DSA/tree/master/0743-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/deytuhin2004/DSA/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/deytuhin2004/DSA/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
