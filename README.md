@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/deytuhin2004/DSA/tree/master/0079-word-search) |
+| [0199-binary-tree-right-side-view](https://github.com/deytuhin2004/DSA/tree/master/0199-binary-tree-right-side-view) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/deytuhin2004/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0322-coin-change](https://github.com/deytuhin2004/DSA/tree/master/0322-coin-change) |
 ## Knapsack Problem
 |  |
@@ -149,4 +151,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/deytuhin2004/DSA/tree/master/1143-longest-common-subsequence) |
+## Tree
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/deytuhin2004/DSA/tree/master/0199-binary-tree-right-side-view) |
+## Binary Tree
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/deytuhin2004/DSA/tree/master/0199-binary-tree-right-side-view) |
 <!---LeetCode Topics End-->
