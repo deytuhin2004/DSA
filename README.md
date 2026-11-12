@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/deytuhin2004/DSA/tree/master/0001-two-sum) |
 | [0079-word-search](https://github.com/deytuhin2004/DSA/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/deytuhin2004/DSA/tree/master/0088-merge-sorted-array) |
+| [0204-count-primes](https://github.com/deytuhin2004/DSA/tree/master/0204-count-primes) |
 | [0239-sliding-window-maximum](https://github.com/deytuhin2004/DSA/tree/master/0239-sliding-window-maximum) |
 | [0322-coin-change](https://github.com/deytuhin2004/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/deytuhin2004/DSA/tree/master/0416-partition-equal-subset-sum) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/deytuhin2004/DSA/tree/master/0009-palindrome-number) |
+| [0204-count-primes](https://github.com/deytuhin2004/DSA/tree/master/0204-count-primes) |
 ## Queue
 |  |
 | ------- |
@@ -196,4 +198,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/deytuhin2004/DSA/tree/master/1584-min-cost-to-connect-all-points) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/deytuhin2004/DSA/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/deytuhin2004/DSA/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/deytuhin2004/DSA/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/deytuhin2004/DSA/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/deytuhin2004/DSA/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
