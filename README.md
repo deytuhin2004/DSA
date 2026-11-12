@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/deytuhin2004/DSA/tree/master/0088-merge-sorted-array) |
 | [0204-count-primes](https://github.com/deytuhin2004/DSA/tree/master/0204-count-primes) |
 | [0239-sliding-window-maximum](https://github.com/deytuhin2004/DSA/tree/master/0239-sliding-window-maximum) |
+| [0307-range-sum-query-mutable](https://github.com/deytuhin2004/DSA/tree/master/0307-range-sum-query-mutable) |
 | [0322-coin-change](https://github.com/deytuhin2004/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/deytuhin2004/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0739-daily-temperatures](https://github.com/deytuhin2004/DSA/tree/master/0739-daily-temperatures) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/deytuhin2004/DSA/tree/master/0307-range-sum-query-mutable) |
 | [0912-sort-an-array](https://github.com/deytuhin2004/DSA/tree/master/0912-sort-an-array) |
 ## Sorting
 |  |
@@ -222,4 +224,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/deytuhin2004/DSA/tree/master/0204-count-primes) |
+## Design
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/deytuhin2004/DSA/tree/master/0307-range-sum-query-mutable) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/deytuhin2004/DSA/tree/master/0307-range-sum-query-mutable) |
+## Segment Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/deytuhin2004/DSA/tree/master/0307-range-sum-query-mutable) |
+## Sqrt Decomposition
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/deytuhin2004/DSA/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
