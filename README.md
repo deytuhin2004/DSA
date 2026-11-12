@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/deytuhin2004/DSA/tree/master/0079-word-search) |
 | [0199-binary-tree-right-side-view](https://github.com/deytuhin2004/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0547-number-of-provinces](https://github.com/deytuhin2004/DSA/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/deytuhin2004/DSA/tree/master/0743-network-delay-time) |
 ## Monotonic Stack
 |  |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/deytuhin2004/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0322-coin-change](https://github.com/deytuhin2004/DSA/tree/master/0322-coin-change) |
+| [0547-number-of-provinces](https://github.com/deytuhin2004/DSA/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/deytuhin2004/DSA/tree/master/0743-network-delay-time) |
 ## Knapsack Problem
 |  |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/deytuhin2004/DSA/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/deytuhin2004/DSA/tree/master/0743-network-delay-time) |
 | [1584-min-cost-to-connect-all-points](https://github.com/deytuhin2004/DSA/tree/master/1584-min-cost-to-connect-all-points) |
 ## Shortest Path
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/deytuhin2004/DSA/tree/master/0547-number-of-provinces) |
 | [1584-min-cost-to-connect-all-points](https://github.com/deytuhin2004/DSA/tree/master/1584-min-cost-to-connect-all-points) |
 ## Minimum Spanning Tree
 |  |
