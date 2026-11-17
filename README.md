@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/deytuhin2004/DSA/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/deytuhin2004/DSA/tree/master/0079-word-search) |
+| [0504-base-7](https://github.com/deytuhin2004/DSA/tree/master/0504-base-7) |
 | [1143-longest-common-subsequence](https://github.com/deytuhin2004/DSA/tree/master/1143-longest-common-subsequence) |
 ## Stack
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/deytuhin2004/DSA/tree/master/0009-palindrome-number) |
 | [0204-count-primes](https://github.com/deytuhin2004/DSA/tree/master/0204-count-primes) |
+| [0504-base-7](https://github.com/deytuhin2004/DSA/tree/master/0504-base-7) |
 ## Queue
 |  |
 | ------- |
